@@ -1,0 +1,34 @@
+# Maven target output
+target/
+*.class
+
+# Runtime dynamic folders (client/server local directories)
+client_data/
+server_data/
+*.part
+
+# NetBeans IDE files
+nbproject/private/
+build/
+dist/
+nbbuild/
+.nb-cache/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Visual Studio Code
+.vscode/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary and log files
+*.log
+*.tmp
+temp/
