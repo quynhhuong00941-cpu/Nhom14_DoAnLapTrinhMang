@@ -4,7 +4,7 @@
 * **Lớp**: 23DTHB1  
 * **Mã nhóm**: Nhóm 14  
 * **Trường**: Đại học Công Nghệ TP.HCM (HUTECH)  
-* **Giảng viên hướng dẫn**: Thầy/Cô Bộ môn Mạng máy tính  
+* **Giảng viên hướng dẫn**: Thầy Nguyễn Văn  
 
 ---
 
@@ -13,9 +13,9 @@
 
 | MSSV | Họ và Tên | Công việc đã thực hiện | Pull Requests / Merge Requests |
 | :---: | :--- | :--- | :---: |
-| **2380601506** | **Trần Quốc Nguyễn** *(Nhóm trưởng)* | • Khởi tạo kiến trúc dự án Maven, .gitignore, script chạy.<br>• Xây dựng bảo mật SSL/TLS (PKCS12), chống Path Traversal.<br>• Quản lý khóa tệp đa luồng (FileLockManager).<br>• Thiết kế Socket TCP SyncServer đa luồng & giao diện ServerForm. | **#1, #2, #7** |
+| **2380601506** | **Trần Quốc Nguyễn** | • Khởi tạo kiến trúc dự án Maven, .gitignore, script chạy.<br>• Xây dựng bảo mật SSL/TLS (PKCS12), chống Path Traversal.<br>• Quản lý khóa tệp đa luồng (FileLockManager).<br>• Thiết kế Socket TCP SyncServer đa luồng & giao diện ServerForm. | **#1, #2, #7** |
 | **2380602014** | **Lý Quốc Thái** | • Định nghĩa tập lệnh giao thức tầng ứng dụng & PacketStream.<br>• Xây dựng cấu trúc gói tin ChunkPacket & ChunkAck.<br>• Hiện thực hóa động cơ ChunkEngine (chia/ghép khối 64KB - 256KB).<br>• Xây dựng cơ chế Stop-and-Wait ACK và Resume Transfer với file tạm `.part`. | **#3, #4** |
-| **2380600941** | **Bùi Nhật Quỳnh Hương** | • Xây dựng mô hình Metadata (FileMetadata, SyncPlan, SyncItem).<br>• Tiện ích băm SHA-256 toàn vẹn tệp & quét thư mục NIO.2.<br>• Thuật toán phân tích sai khác SyncDiffEngine.<br>• Quy tắc giải quyết xung đột Conflict Resolution (bảo toàn dữ liệu).<br>• Xây dựng bộ kiểm thử tự động TestRunner pass 100% & tổng hợp báo cáo. | **#5, #6, #10** |
+| **2380600941** | **Bùi Nhật Quỳnh Hương** *(Nhóm trưởng)* | • Xây dựng mô hình Metadata (FileMetadata, SyncPlan, SyncItem).<br>• Tiện ích băm SHA-256 toàn vẹn tệp & quét thư mục NIO.2.<br>• Thuật toán phân tích sai khác SyncDiffEngine.<br>• Quy tắc giải quyết xung đột Conflict Resolution (bảo toàn dữ liệu).<br>• Xây dựng bộ kiểm thử tự động TestRunner pass 100% & tổng hợp báo cáo. | **#5, #6, #10** |
 | **2380602385** | **Nguyễn Trung Trực** | • Thiết kế giao diện Swing hiện đại ModernTheme.<br>• Xây dựng SyncClient kết nối Socket TCP/SSL.<br>• Cơ chế lập lịch tự động AutoSyncScheduler không chồng phiên.<br>• Xây dựng giao diện ClientForm, thanh tiến trình JProgressBar theo luồng EDT.<br>• Web Dashboard HTTP Server (cổng 8088) & MainLauncherForm. | **#8, #9** |
 
 ---
